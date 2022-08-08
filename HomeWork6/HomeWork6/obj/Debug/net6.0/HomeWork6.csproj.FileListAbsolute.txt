@@ -1,0 +1,15 @@
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\HomeWork6.exe
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\HomeWork6.deps.json
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\HomeWork6.runtimeconfig.json
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\HomeWork6.dll
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\ref\HomeWork6.dll
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\bin\Debug\net6.0\HomeWork6.pdb
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.csproj.AssemblyReference.cache
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.AssemblyInfoInputs.cache
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.AssemblyInfo.cs
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.dll
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\ref\HomeWork6.dll
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.pdb
+C:\Users\hafiz\source\repos\HomeWork6\HomeWork6\obj\Debug\net6.0\HomeWork6.genruntimeconfig.cache
